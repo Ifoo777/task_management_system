@@ -1,7 +1,7 @@
 ## LionDev Task Management System
 
 ## About The Project
-The Task Management System is a simple project that can help manage task progress. The system has 3 types of system users which are the Admin, Brother , Sister and child for various roles or tasks.
+The Task Management System is a simple project that can help manage task progress. The system has 3 types of system users which are the Admin, Brother , Sister and child for various roles or tasks in the family household.
 The Admin user is those users that has an access to all of the data stored in the database of the system especially on creating and managing system users. 
 The Brother or Sister are those users that manage the project details and progress under her/his management.
 The Children will submit their work productivity in each task of the project
