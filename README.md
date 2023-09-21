@@ -38,7 +38,7 @@ Further, Now Connecting Database
 
 After Creating Database,
 
-9th Step: Moreover, Open a browser and go to URL “http://localhost/task_management_system”
+9th Step: Moreover, Open a browser and copy this URL over into your browser “http://localhost/task_management_system”
 
 Admin Access
 Email: admin@admin.com
